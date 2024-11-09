@@ -15,12 +15,6 @@ A retro-style personal portfolio webpage inspired by classic 8-bit design aesthe
   - **Frontend & Backend Knowledge**: Showcase skill levels in various technologies.
   - **Extras**: Highlight additional accomplishments, like writing or publications.
 
-## 📸 Screenshot
-
-![Portfolio Screenshot](https://i.ibb.co/R64q6tm/image.png)
-
-> *(Replace `path/to/your-image.png` with the path to your screenshot)*
-
 ## 🛠️ Getting Started
 
 ### Prerequisites
