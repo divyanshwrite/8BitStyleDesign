@@ -1,6 +1,7 @@
 # 8-Bit Style Portfolio Website
 
-![Project Screenshot]([(https://i.ibb.co/R64q6tm/image.png)])
+![Project Screenshot](https://i.ibb.co/R64q6tm/image.png)
+
 
 A retro-style personal portfolio webpage inspired by classic 8-bit design aesthetics. This website template allows users to showcase their skills, experience, and projects with a nostalgic pixelated look.
 
